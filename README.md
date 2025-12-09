@@ -6,7 +6,7 @@ Este trabalho consistiu na **configuração, emulação e análise de redes TCP/
 
 ---
 
-## 🧩 Conteúdos técnicos trabalhados
+## Conteúdos técnicos trabalhados
 
 - Configuração de **LANs Ethernet**
 - **ARP, ICMP e conectividade inter-redes**
@@ -18,14 +18,12 @@ Este trabalho consistiu na **configuração, emulação e análise de redes TCP/
 
 ---
 
-## 🛠 Ferramentas e tecnologias
+## Ferramentas e tecnologias
 
 - 🖧 CORE – emulação de redes
 - 🐧 Linux (shell scripting básico)
 - 🌐 Apache2, vsftpd
 - 🧪 Wireshark
 
----
 
-## 📂 Conteúdo do repositório
 
